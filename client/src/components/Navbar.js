@@ -11,13 +11,13 @@ const Navbar = () => {
           <button className="text-white mt-6 ml-8">Home</button>
         </NavLink>
         <NavLink to="/login" exact="true">
-          <button className="bg-white w-24 h-10 rounded-lg mt-6 ml-8">
+          <button className="bg-white w-24 h-10 rounded-lg mt-6 ml-8 bt">
             Login
           </button>
         </NavLink>
 
         <NavLink to="/signup" exact="true">
-          <button className="bg-white w-24 h-10 rounded-lg mt-6 ml-8">
+          <button className="bg-white w-24 h-10 rounded-lg mt-6 ml-8 bt">
             Signup
           </button>
         </NavLink>

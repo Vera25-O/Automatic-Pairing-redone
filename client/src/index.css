@@ -1,6 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bt{
+  width: 20%;
+}
 @media only screen and (max-width: 1830px) {
     #triangle {
       border-right-width: 106px;
