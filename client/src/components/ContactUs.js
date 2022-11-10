@@ -10,7 +10,7 @@ function ContactUs() {
                       <div className="ml-40">
                           <h1 className='text-6xl pb-8 pt-4'>Contact us </h1>
                           <h3 className='text-2xl pb-4'>Our friendly team would like to hear from you</h3>
-                          <div className='bg-[#EDF4F9] rounded-3xl w-3/5 '>
+                          <div className='bg-[#EDF4F9] rounded-3xl w-3/5 frm '>
                               <div className="p-11">
                                   <form>
                                       <label for="fname">Full Name</label><br></br>

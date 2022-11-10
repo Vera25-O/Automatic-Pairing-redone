@@ -20,8 +20,8 @@ function Home() {
         <h1 className="p-8 ml-12 text-4xl font-bold text-[#1D6697]">
           Automatic Pairing
         </h1>
-        <div className="flex">
-          <div className="p-36 text-2xl w-6/12">
+        <div className="home">
+          <div className="home">
             <h2 className="text-black bg-white border-[#1D6697] border-4 p-4 w-4/5 font-medium rounded-lg shadow-lg text-centre">
               Putting students into random <br></br> pairings takes FOREVER.{" "}
               <br></br> Automatic pairing app is here to <br></br> save you
