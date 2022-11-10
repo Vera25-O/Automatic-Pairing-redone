@@ -6,7 +6,7 @@ function Home() {
     <>
       <Navbar />
       <div
-        className="relative bg-contain bg-no-repeat bg-[url('https://trello.com/1/cards/6354e86e18ab1a02e0045e46/attachments/6354f463c9746200bd5a1544/download/pairjpg')]"
+        className="relative bg-contain bg-no-repeat bg-[url('https://trello.com/1/cards/6354e86e18ab1a02e0045e46/attachments/6354f463c9746200bd5a1544/download/pairjpg')] nav"
         // style={{
         //   backgroundRepeat: "no-repeat",
         //   backgroundImage: `url('https://trello.com/1/cards/6354e86e18ab1a02e0045e46/attachments/6354f463c9746200bd5a1544/download/pairjpg')`,
@@ -79,11 +79,7 @@ function Home() {
 
         <div className="contact mt-20">
           <div className="background">
-            <div
-              style={{
-                backgroundImage: `url('https://trello.com/1/cards/6354e878c89b2702f9492e14/attachments/6354f42f2811e7024ebd8d67/previews/6354f4302811e7024ebd8d75/download/contact.png')`,
-              }}
-            >
+            <div>
               <div className="mx-40">
                 <h1 className="text-6xl pb-8 pt-4">Contact us </h1>
                 <h3 className="text-2xl pb-4">
