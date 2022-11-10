@@ -6,17 +6,10 @@ function Home() {
     <>
       <Navbar />
       <div
-        className="relative bg-contain bg-no-repeat bg-[url('https://trello.com/1/cards/6354e86e18ab1a02e0045e46/attachments/6354f463c9746200bd5a1544/download/pairjpg')] nav"
-        // style={{
-        //   backgroundRepeat: "no-repeat",
-        //   backgroundImage: `url('https://trello.com/1/cards/6354e86e18ab1a02e0045e46/attachments/6354f463c9746200bd5a1544/download/pairjpg')`,
-        // }}
+        className="nav"
+        
       >
-        {/* <div className="w-full" style={{ backgroundImage: `url('https://trello.com/1/cards/6354e86e18ab1a02e0045e46/attachments/6354f463c9746200bd5a1544/download/pairjpg')`, }} >
-        <h1 className="text-center pt-8 text-4xl">Automatic student pairing</h1>
-        <div className='bg-[#EDF4F9]  w-1/5 pl-8  ml-96 mt-44 '>
-          <p>Putting students into random <br></br> pairings takes FOREVER. <br></br> Automatic pairing app is here to save you hours each week! Providing a fun, free, and easy way to create student study pairs.</p>
-        </div> */}
+        
         <h1 className="p-8 ml-12 text-4xl font-bold text-[#1D6697]">
           Automatic Pairing
         </h1>
@@ -37,45 +30,9 @@ function Home() {
               of people.
             </h2>
           </div>
-          {/* <div className="w-6/12 h-full">
-            <img src="" alt="Italian Trulli"></img>
-          </div> */}
-        </div>
+         
 
-        {/* <div className="flex flex-row mt-1">
-          <div className="ml-40">
-            <div className="mt-2">
-              <img
-                className="object-cover h-40 w-96"
-                src="https://trello.com/1/cards/6352455bf4c39c009967a985/attachments/635288c74a99790283d6f2cc/previews/635288c84a99790283d6f2d8/download/aboutus.jpg"
-                alt="about"
-              />
-            </div>
-            <div className="text-center w-60">
-              <p>
-                “You go through life wondering what is it all about life at the
-                end of the day”
-              </p>
-            </div>
-            <div className="flex flex-row">
-              <img
-                className="rounded-full object-cover h-36 w-36"
-                src="https://trello.com/1/cards/6352455bf4c39c009967a985/attachments/635288e5c53ace0127a7f7d0/previews/635288e6c53ace0127a7f7d8/download/every.jpg"
-                alt="about"
-              />
-              <div className="ml-8 mt-4">
-                <div className="text-[#1D6697] text-[19]">
-                  But what do we say?
-                </div>
-                <div className="bg-[#713f12] h-8 w-24 text-center text-white">
-                  Automation
-                </div>
-              </div>
-            </div>
-          </div>
-
-          
-        </div> */}
+        
 
         <div className="contact mt-20">
           <div className="background">
