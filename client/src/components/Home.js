@@ -30,7 +30,7 @@ function Home() {
               of people.
             </h2>
           </div>
-         
+             </div>
 
         
 
